@@ -187,3 +187,13 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.carousel {
+    height: 65%;
+}
+
+.item,
+.active,
+.carousel-inner {
+    height: 100%;
+}
