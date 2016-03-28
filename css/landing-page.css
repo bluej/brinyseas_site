@@ -188,6 +188,7 @@ p.copyright {
     margin: 15px 0 0;
 }
 
+/* Events section CSS */
 .carousel {
     height: 50%;
 }
@@ -207,4 +208,9 @@ p.copyright {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+/* Portfolio section CSS */
+.portfolio-item {
+    margin-bottom: 25px;
 }
