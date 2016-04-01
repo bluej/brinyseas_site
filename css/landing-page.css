@@ -198,5 +198,10 @@ p.copyright {
 
 /* Portfolio section CSS */
 .portfolio-item {
-    margin-bottom: 25px;
+    margin-bottom: 50px;
+}
+
+#about-img {
+    vertical-align: middle
+    position: relative;
 }
